@@ -1,0 +1,9 @@
+{
+  "language": "Language",
+  "login": "Login",
+  "chooseLanguage": "Choose your preferred language",
+  "changeLanguage": "Change Language",
+  "profile": "Profile",
+  "setting": "Setting",
+  "logout": "Logout"
+}
